@@ -1,0 +1,27 @@
+2025-12-10
+
+Mods Removed:
+
+client side: 
+Naturalist
+older version of framework (0.7.15)
+older version of moremobvariants (0.3.0.1)
+fxnt storage (aka create storage)
+Nethers Delight
+
+server side: 
+multiple client side only mods
+all mods shown above
+
+
+
+Mods added:
+
+client side: 
+AFK camera
+
+server side: 
+VMP
+krypton
+C2ME
+memoryleakfix
