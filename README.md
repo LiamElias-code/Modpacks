@@ -8,7 +8,7 @@ All packs are available for anyone to download, tweak, and use on their own serv
 
 ## Server Status
 
-you can see the uptime of my servers/services [HERE](status.liamelias.com/status/services)
+you can see the uptime of my servers/services [HERE](https://status.liamelias.com/status/services)
 ## Latest Modpack For Each Server
 
 For the most recently updated modpack file for any server, please take a look at the releases on the right side of the page.
