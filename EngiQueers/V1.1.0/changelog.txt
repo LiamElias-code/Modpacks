@@ -25,3 +25,16 @@ VMP
 krypton
 C2ME
 memoryleakfix
+AchievementOptimizer-fabric
+almanac-1.20.x-fabricr (lib for mobstacker)
+async-locator-fabric
+chunkactivitytracker-fabric (lib for does it tick)
+disableportalchecks
+does_it_tick-fabric
+fabric-carpetr (requirement for does it tick)
+immersive_optimization-fabric
+letmedespawn (reqirement for mobstacker)
+mobstacker-1.20.x-fabric
+servercore-fabric
+slumber
+txnilib-fabric (lib for does it tick)
