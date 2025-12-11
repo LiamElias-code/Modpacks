@@ -4,13 +4,11 @@ This repository contains the modpacks used on the various Minecraft servers that
 
 Each pack is built for a different group I play with, but most are heavily modded and performance‑tuned.
 
-All packs are available for anyone to download, tweak, and use on their own servers or singleplayer worlds.
+All packs are available for anyone to download, tweak, and use on their own servers or single-player worlds.
 
 ## Latest Modpack For Each Server
 
-The most recently updated modpack file:
-
-**[For EngiQueers](https://github.com/LiamElias-code/Modpacks/blob/main/EngiQueers/V1.1.0/EQ-V1.1.0%20.mrpack)**
+For the most recently updated modpack file for any server, please take a look at the releases on the right side of the page.
 
 Feel free to:
 - Download and play the packs as‑is  
