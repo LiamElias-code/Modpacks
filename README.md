@@ -13,6 +13,7 @@ You can see the uptime of my servers/services [HERE](https://status.liamelias.co
 ## Latest Modpack For Each Server
 
 For the most recently updated modpack file for any server, please take a look at the releases on the right side of the page.
+For any accompanying server side modpack please look in same folder as the modpack for the .mrpack file with the -server suffix
 
 Feel free to:
 - Download and play the packs as‑is  
