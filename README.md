@@ -10,11 +10,11 @@ All packs are available for anyone to download, tweak, and use on their own serv
 
 You can see the uptime of my servers/services [HERE](https://status.liamelias.com/status/services)
 
-## Latest Modpack For Each Server
+## Latest Modpack
 
-For the most recently updated modpack file for any server, please take a look at the releases on the right side of the page.
+For the most recent modpack file for any server, please take a look at the releases on the right side of the page.
 
-For any accompanying server side modpack please look in same folder as the modpack for the .mrpack file with the -server suffix
+For any accompanying server side modpack please look in the appropriate folder for the .mrpack file with the -server suffix
 
 ## Usage
 
