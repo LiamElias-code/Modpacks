@@ -16,6 +16,8 @@ For the most recently updated modpack file for any server, please take a look at
 
 For any accompanying server side modpack please look in same folder as the modpack for the .mrpack file with the -server suffix
 
+## Usage
+
 Feel free to:
 - Download and play the packs as‑is  
 - Modify them for your own servers  
