@@ -2,7 +2,7 @@
 
 This repository contains the modpacks used on the various Minecraft servers that I run. 
 
-Each pack is built for a different group I play with, but most are heavily modded and performance‑tuned.
+Each pack is built for a different group I play with, but most are heavily modded and server side packs are performance‑tuned.
 
 All packs are available for anyone to download, tweak, and use on their own servers or single-player worlds.
 
