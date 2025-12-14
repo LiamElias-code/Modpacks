@@ -6,10 +6,6 @@ Each pack is built for a different group I play with, but most are heavily modde
 
 All packs are available for anyone to download, tweak, and use on their own servers or single-player worlds.
 
-## Server Status
-
-You can see the uptime of my servers/services [HERE](https://status.liamelias.com/status/services)
-
 ## Latest Modpack
 
 For the most recent modpack file for any server, please take a look at the releases on the right side of the page.
@@ -23,6 +19,10 @@ If you would like use the keybinds that I use, the options.txt file is in the mo
 Keep in mind that I use a standard, 100% size keyboard and you may need to bind new keys to suit your specific keyboard.
 
 After running the instance once, replace the existing options.txt file in the root folder of your instance with the one provided. 
+
+## Server Status
+
+You can see the uptime of my servers/services [HERE](https://status.liamelias.com/status/services)
 
 ## Usage
 
